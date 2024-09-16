@@ -1,1 +1,2 @@
-ollama
+open_webui
+anythingllm
