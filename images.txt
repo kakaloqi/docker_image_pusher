@@ -1,1 +1,1 @@
-anythingllm
+mintplexlabs/anythingllm
