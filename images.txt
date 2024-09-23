@@ -1,1 +1,1 @@
-nginx:alpine
+kuaifan/eeui-cli:0.0.1
