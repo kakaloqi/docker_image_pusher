@@ -1,1 +1,1 @@
-kuaifan/apidoc
+nginx:alpine
