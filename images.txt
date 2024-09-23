@@ -1,1 +1,1 @@
-alpine:latest
+kuaifan/eeui-cli:0.0.1
