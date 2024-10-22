@@ -1,1 +1,1 @@
-TeamWiseFlow/wiseflow:latest
+wiseflow:latest
